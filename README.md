@@ -4,8 +4,8 @@ Este projeto é um sistema especialista desenvolvido em **SWI-Prolog**, como par
 
 **Desenvolvido por:**
 
-* `[Anderson Nilton de Souza]` - `@[andersonniltondesouza-unidavi]`
-* `[Gabriel Wellington Renzi]` - `@[GabrielRenzi]`
+* Anderson Nilton de Souza - @[andersonniltondesouza-unidavi]
+* Gabriel Wellington Renzi - @[GabrielRenzi]
 
 ---
 
