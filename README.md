@@ -2,9 +2,9 @@
 
 Este projeto é um sistema especialista desenvolvido em **SWI-Prolog**, como parte dos requisitos da disciplina de Linguagens de Programação e Paradigmas. O objetivo principal é demonstrar a aplicação de conceitos de **Programação Lógica** (fatos, regras e motor de inferência) para resolver um problema de negócio. O sistema replica a lógica de um formulário de cálculo de mensalidade, coletando dados do usuário via console e inferindo o valor final com base em um conjunto de regras de negócio (multa, descontos, teto).
 
-`**Desenvolvido por:**
-* @[andersonniltondesouza-unidavi]
-* @[GabrielRenzi]
+**Desenvolvido por:**
+* Anderson Nilton de Souza [@andersonniltondesouza-unidavi](https://github.com/andersonniltondesouza-unidavi)
+* Gabriel Wellington Renzi [@GabrielRenzi](https://github.com/GabrielRenzi)
 
 ---
 
